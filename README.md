@@ -5,7 +5,7 @@
 **A production-grade movie discovery platform built with cutting-edge React 19 architecture.**  
 Infinite scroll, real-time search, embedded trailers, global state management — all wired together seamlessly.
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-genv--movieapp.netlify.app-00C7B7?style=for-the-badge)](https://genv-movieapp.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-genv--movieapp.netlify.app-00C7B7?style=for-the-badge)](https://genv-movie.netlify.app/)
 [![GitHub](https://img.shields.io/badge/📁_Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Notanormaldev/GenV-Movieapp)
 [![Netlify](https://img.shields.io/badge/Deployed_on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://genv-movie.netlify.app/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
@@ -20,11 +20,11 @@ Infinite scroll, real-time search, embedded trailers, global state management �
 
 | Home | Trending |
 |------|----------|
-| ![Home](public/screenshots/home.png) | ![Trending](public/screenshots/Trending.png) |
+| ![Home](/screenshots/home.png) | ![Trending](/screenshots/Trending.png) |
 
 | Search | Movie Details |
 |--------|---------------|
-| ![Search](public/screenshots/search.png) | ![Details](public/screenshots/details.png) |
+| ![Search](/screenshots/search.png) | ![Details](/screenshots/details.png) |
 
 ---
 
@@ -105,11 +105,8 @@ Infinite scroll, real-time search, embedded trailers, global state management �
 ```
 GenV-Movieapp/
 ├── public/
-│   └── screenshots/
-│       ├── home.png
-│       ├── Trending.png
-│       ├── search.png
-│       └── details.png
+│   ├── favicon.ico
+│   └── imgs & videos (static assets)
 ├── src/
 │   ├── components/        # Reusable UI components (cards, navbar, loader...)
 │   ├── pages/             # Route-level page components (Home, Trending, Search, Details)
@@ -198,7 +195,7 @@ Build command:   npm run build
 Publish dir:     dist
 ```
 
-Live at 👉 **[https://genv-movieapp.netlify.app/](https://genv-movieapp.netlify.app/)**
+Live at 👉 **[https://genv-movie.netlify.app/](https://genv-movieapp.netlify.app/)**
 
 ---
 
