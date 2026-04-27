@@ -5,7 +5,7 @@
 **A production-grade movie discovery platform built with cutting-edge React 19 architecture.**  
 Infinite scroll, real-time search, embedded trailers, global state management — all wired together seamlessly.
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-genv--movieapp.netlify.app-00C7B7?style=for-the-badge)](https://genv-movie.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-genv--movie.netlify.app-00C7B7?style=for-the-badge)](https://genv-movie.netlify.app/)
 [![GitHub](https://img.shields.io/badge/📁_Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Notanormaldev/GenV-Movieapp)
 [![Netlify](https://img.shields.io/badge/Deployed_on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://genv-movie.netlify.app/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
