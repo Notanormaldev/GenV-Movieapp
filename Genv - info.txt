@@ -1,0 +1,10 @@
+installaction  
+react 
+tailwind
+react-router-dom
+axios
+react-player
+react-redux-toolkit
+remix icons
+color1- #1F1E24
+color2 - #6556CD
