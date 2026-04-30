@@ -195,7 +195,7 @@ Build command:   npm run build
 Publish dir:     dist
 ```
 
-Live at 👉 **[https://genv-movie.netlify.app/](https://genv-movieapp.netlify.app/)**
+Live at 👉 **[https://genv-movie.netlify.app/](https://genv-movie.netlify.app/)**
 
 ---
 
